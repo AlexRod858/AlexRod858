@@ -1,4 +1,4 @@
-![MastHead](https://raw.githubusercontent.com/AlexRod858/AlexRod858/main/vibes.png)
+![MastHead](https://raw.githubusercontent.com/AlexRod858/AlexRod858/main/bannergithub2.png)
 <h1 align="center">Hi 👋, I'm Andros</h1> 
 <h3 align="center">A passionate Full-Stack developer from Canary Islands</h3>
 
