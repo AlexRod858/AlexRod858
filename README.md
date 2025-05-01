@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Laravel, PHP**
 
-- 👨‍💻 All of my projects are available at [https://androscaabello.com/](https://androscabello.com/)
+- 👨‍💻 All of my projects are available at [https://androscabello.com/](https://androscabello.com/)
 
 - 💬 Ask me about **LAMP**
 
